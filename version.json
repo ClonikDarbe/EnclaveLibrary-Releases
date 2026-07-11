@@ -1,5 +1,13 @@
 {
-  "version": "1.0.3",
-  "package_url": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/EnclaveLibrary.zip",
-  "notes": "Tray, tek uygulama ve güncelleme sistemi düzeltildi."
+  "version": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/EnclaveLibrary.zip",
+  "sha256": "",
+  "installerKind": "zip",
+  "installerArgs": [],
+  "releaseNotesUrl": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest",
+  "message": "Enclave Library Next guncel.",
+  "notes": "0.1.0 ilk yayin.",
+  "allowedBuildHashes": []
 }
