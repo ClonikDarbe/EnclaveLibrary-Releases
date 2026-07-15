@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "minimumSupportedVersion": "0.1.0",
+  "version": "0.1.1",
+  "minimumSupportedVersion": "0.1.1",
   "forceUpdate": false,
   "downloadUrl": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/EnclaveLibraryNext_0.1.0_x64-setup.exe",
   "sha256": "2CAEFB7B9C1B743B6D5851F436BA018A41B9DA926AF6D1AE43BDD7AF54FAA972",
