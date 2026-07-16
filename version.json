@@ -1,13 +1,17 @@
 {
-  "version": "0.1.1",
-  "minimumSupportedVersion": "0.1.1",
-  "forceUpdate": false,
-  "downloadUrl": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/EnclaveLibraryNext_0.1.0_x64-setup.exe",
-  "sha256": "2855FDD5AC76B667A7BE04EAFC65D0B17955719645288E8C9ECA1B8FFE94099C",
-  "installerKind": "zip",
-  "installerArgs": [],
-  "releaseNotesUrl": "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest",
-  "message": "Enclave Library Next guncel.",
-  "notes": "0.1.0 ilk yayin.",
-  "allowedBuildHashes": []
+    "version":  "0.1.2",
+    "minimumSupportedVersion":  "0.1.2",
+    "forceUpdate":  true,
+    "downloadUrl":  "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/Enclave%20Library%20Next_0.1.2_x64-setup.exe",
+    "sha256":  "2B5C9EFA787BF27D175B799EDC5D75D6118A2FF7FCD145C950A329E7F606D548",
+    "installerKind":  "nsis",
+    "installerArgs":  [
+                          "/S"
+                      ],
+    "releaseNotesUrl":  "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest",
+    "message":  "Enclave Library Next 0.1.2 zorunlu guncellemesi hazir.",
+    "notes":  "Connect sohbet temizleme, eski mesaj bildirimi duzeltmesi ve zorunlu guncelleme test surumu.",
+    "allowedBuildHashes":  [
+
+                           ]
 }
