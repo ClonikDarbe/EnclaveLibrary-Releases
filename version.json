@@ -1,16 +1,16 @@
-{
-    "version":  "0.1.2",
-    "minimumSupportedVersion":  "0.1.2",
+﻿{
+    "version":  "0.1.5",
+    "minimumSupportedVersion":  "0.1.5",
     "forceUpdate":  true,
-    "downloadUrl":  "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/Enclave%20Library%20Next_0.1.2_x64-setup.exe",
-    "sha256":  "2B5C9EFA787BF27D175B799EDC5D75D6118A2FF7FCD145C950A329E7F606D548",
+    "downloadUrl":  "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest/download/Enclave.Library.Next_0.1.5_x64-setup.exe",
+    "sha256":  "A22FE8AD2BB4BC46F312C1695A8A6FB665A44859076DA8DAACA86AD96D878946",
     "installerKind":  "nsis",
     "installerArgs":  [
                           "/S"
                       ],
     "releaseNotesUrl":  "https://github.com/ClonikDarbe/EnclaveLibrary-Releases/releases/latest",
-    "message":  "Enclave Library Next 0.1.2 zorunlu guncellemesi hazir.",
-    "notes":  "Connect sohbet temizleme, eski mesaj bildirimi duzeltmesi ve zorunlu guncelleme test surumu.",
+    "message":  "Enclave Library Next 0.1.5 zorunlu guncellemesi hazir.",
+    "notes":  "Tema sistemi, Discord RPC sunumu ve Connect/launcher duzeltmeleri icin zorunlu guncelleme.",
     "allowedBuildHashes":  [
 
                            ]
